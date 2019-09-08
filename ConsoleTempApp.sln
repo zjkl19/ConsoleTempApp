@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29230.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTempApp", "ConsoleTempApp\ConsoleTempApp.csproj", "{7B0D7A63-44EF-4FE3-894D-747064C67A5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleTempApp", "ConsoleTempApp\ConsoleTempApp.csproj", "{7B0D7A63-44EF-4FE3-894D-747064C67A5C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ConsoleTempAppSetup", "ConsoleTempAppSetup\ConsoleTempAppSetup.vdproj", "{D43446BE-2038-4114-8490-630AA8C0F098}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,8 @@ Global
 		{7B0D7A63-44EF-4FE3-894D-747064C67A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B0D7A63-44EF-4FE3-894D-747064C67A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B0D7A63-44EF-4FE3-894D-747064C67A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43446BE-2038-4114-8490-630AA8C0F098}.Debug|Any CPU.ActiveCfg = Debug
+		{D43446BE-2038-4114-8490-630AA8C0F098}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
